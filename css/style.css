@@ -12,7 +12,7 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 4em;
+  font-size: 3em;
   color: #aa000b;
 }
 
@@ -42,7 +42,7 @@ a {
 
 @media only screen and (max-width:768px) {
   h1 {
-    font-size: 3em;
+    font-size: 2em;
   }
   #film2 {
     display: none;
@@ -51,7 +51,7 @@ a {
 
 @media only screen and (max-width:414px) {
   h1 {
-    font-size: 2em;
+    font-size: 1em;
   }
   #film2 {
     display: none;
