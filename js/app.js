@@ -5,11 +5,11 @@ window.addEventListener('DOMContentLoaded', () => {
   const audio = document.querySelector('audio');
 
   const attori = {
-    'jerry cala': ['libidine.m4a', 'piaccio.m4a', 'sonic badge.m4a', 'ocio.m4a'],
+    'jerry cala': ['libidine.mp3', 'piaccio.mp3', 'sonic badge.mp3', 'ocio.mp3'],
 
-    'christian de sica': ['dichiarare il secondo.m4a', 'fusilli.m4a', 'la sciolta.m4a', 'mafia giudea.m4a', 'quanto sei brutta.m4a', 'secondo te stiamo messi male.m4a', 'siediti sit down.m4a', 'sto a scherza.m4a'],
+    'christian de sica': ['dichiarare il secondo.mp3', 'fusilli.mp3', 'la sciolta.mp3', 'mafia giudea.mp3', 'quanto sei brutta.mp3', 'secondo te stiamo messi male.mp3', 'siediti sit down.mp3', 'sto a scherza.mp3'],
 
-    'massimo boldi': ['che dolore.m4a', 'porca puttana.m4a', 'ciao cipollini.m4a', 'bella madonnina.m4a', 'so lupacchiotto.m4a', 'i poliziesi.m4a', 'tachicardia.m4a']
+    'massimo boldi': ['che dolore.mp3', 'porca puttana.mp3', 'ciao cipollini.mp3', 'bella madonnina.mp3', 'so lupacchiotto.mp3', 'i poliziesi.mp3', 'tachicardia.mp3']
   };
 
   const menuAttori = Object.keys(attori);
