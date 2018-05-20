@@ -25,7 +25,7 @@ h1 {
 }
 
 iframe {
-  display: inline-block;
+  display: inline-flex;
   margin: 10px;
   width: 120px;
   height: 240px;
@@ -51,9 +51,16 @@ a {
 
 @media only screen and (max-width:414px) {
 
+
+  main {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
   #bottone {
-    display: inline-block;
-    vertical-align: top;
+    display: inline-flex;
+    /* vertical-align: middle; */
   }
   h1 {
     font-size: 2em;
