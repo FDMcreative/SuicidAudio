@@ -50,6 +50,11 @@ a {
 }
 
 @media only screen and (max-width:414px) {
+
+  #bottone {
+    display: inline-block;
+    vertical-align: top;
+  }
   h1 {
     font-size: 1em;
   }
